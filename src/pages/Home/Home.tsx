@@ -22,9 +22,9 @@ export const Home = () => {
             </p>
           </div>
         </div>
-        <div className="my-auto">
+        <div className="my-auto w-[300px] h-[300px]">
           <button
-            className={`p-[100px] bg-white text-black rounded-full text-[32px] ${styles.exploreButton}`}
+            className={`p-[100px] bg-white text-black rounded-full text-[32px] h-[300px] ${styles.exploreButton}`}
           >
             Explore
           </button>

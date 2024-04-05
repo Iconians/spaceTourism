@@ -1,0 +1,13 @@
+.navBackground {
+  background-color: #ffffff, 0.4;
+  backdrop-filter: blur(10px);
+  padding: 25px;
+  width: 635px;
+}
+
+.hr {
+  width: 620px;
+  position: absolute;
+  left: 160px;
+  color: #FFFFFF;
+}
