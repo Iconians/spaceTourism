@@ -1,18 +1,18 @@
 export const navLinks = [
     {
-        title: "00 Home",
+        title: "00 HOME",
         url: "/",
     },
     {
-        title: "01 Destination",
+        title: "01 DESTINATION",
         url: "/Destination",
     },
     {
-        title: "02 Crew",
+        title: "02 CREW",
         url: "/Crew",
     },
     {
-        title: "03 Technology",
+        title: "03 TECHNOLOGY",
         url: "/Technology",
     },
 ];
