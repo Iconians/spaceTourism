@@ -29,6 +29,7 @@ export const Home = () => {
             Explore
           </button>
         </div>
+        <div></div>
       </div>
     </section>
   );
