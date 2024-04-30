@@ -8,7 +8,8 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        homeDesktop: "url('/home/background-home-desktop.jpg')"
+        homeDesktop: "url('/home/background-home-desktop.jpg')",
+        destinationDesktop: "url('/destination/background-destination-desktop.jpg')"
       }
     },
   },

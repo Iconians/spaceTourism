@@ -3,7 +3,7 @@ import styles from "./Home.module.css";
 
 export const Home = () => {
   return (
-    <section className="bg-homeDesktop bg-cover h-[100vh] text-white">
+    <section className="bg-homeDesktop bg-right bg-cover h-[100vh] w-[1200px] text-white">
       <Navbar />
       <div className="flex justify-around content-center mt-[250px]">
         <div className="h-[450px] w-[400px]">
