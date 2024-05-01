@@ -16,7 +16,7 @@ export const Destination = () => {
       <section className="w-[1200px] bg-destinationDesktop text-white h-[100vh]">
         <Navbar />
         <div className="mt-20 ml-20 text-[24px]">
-          <h1>01 PICK YOUR DESTINATION</h1>
+          <h1>01 PICK YOUR DESTINATION </h1>
         </div>
         <div className="mt-20">
           {destinationCardInfo.map((destination) => (
