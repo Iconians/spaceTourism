@@ -2,7 +2,7 @@ import { Navbar } from "../../components/Navbar/Navbar";
 import styles from "./Home.module.css";
 
 export const Home = () => {
-  // home
+  // home components
   return (
     <section className="bg-homeDesktop bg-right bg-cover h-[100vh] w-[1200px] text-white">
       <Navbar />
